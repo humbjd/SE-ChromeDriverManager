@@ -1,2 +1,2 @@
 # SE-ChromeDriverManager
-Comando para importar aut
+Comando para importar automaticamente pelo python o ChromeDriverManager
